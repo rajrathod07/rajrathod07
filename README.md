@@ -20,6 +20,6 @@ Online 🟢
 
 > focus
 Ethical Hacking | Python | Web Development
-
+---
 ⚔️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,git,github,vscode" /> </p>
