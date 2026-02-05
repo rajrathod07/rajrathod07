@@ -6,12 +6,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator" />
 </p>
 
-python
-class CyberProfile:
-    def __init__(self):
-        self.name = "Raj Rathod"
-        self.role = "Full Stack Developer"
-        self.style = "Cyberpunk / Hacker"
     
     def get_skills(self):
         return [
