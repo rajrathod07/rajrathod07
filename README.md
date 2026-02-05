@@ -5,15 +5,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator" />
 </p>
-
-    
-    def get_skills(self):
-        return [
-            "Python", "JavaScript", "React",
-            "Ethical Hacking", "Linux", "Cryptography"
-        ]
-
-    def current_status(self):
-        return "Building the future, one line at a time..."
-
-me = CyberProfile()
