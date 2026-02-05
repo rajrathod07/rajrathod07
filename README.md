@@ -1,16 +1,20 @@
-## Hi there 👋
+### // SYSTEM INITIATED...
+### // ACCESS GRANTED TO USER: [YOUR USERNAME]
 
-<!--
-**rajrathod07/rajrathod07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+  _____             _     _                    
+ |  __ \           | |   (_)                   
+ | |__) | __ ___   | |    _ _ __  _   ___  __
+ |  ___/ '__/ _ \  | |   | | '_ \| | | \ \/ /
+ | |   | | | (_) | | |___| | | | | |_| |>  < 
+ |_|   |_|  \___/  |_____|_|_| |_|\__,_/_/\_\
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const coder = {
+    name: "Your Name",
+    skills: ["React", "Python", "Ethical Hacking", "Linux"],
+    hardWorker: true,
+    problemSolver: true,
+    hireable: function() {
+        return (this.hardWorker && this.problemSolver && this.skills.length >= 5);
+    }
+};
