@@ -1,5 +1,3 @@
-<!-- CYBER HACKER PROFILE README -->
-
 <h1 align="center">⚡ RAJ RATHOD // CYBER REALM ⚡</h1>
 
 <p align="center">
@@ -8,29 +6,44 @@
 
 ---
 
-```bash
-> booting system...
+## 🧠 About Me
 
-user: rajrathod07
-role: Cyber Explorer 🕶️
-status: Online 🟢
-location: India 🌏
+- 👨‍💻 Name: Raj Rathod  
+- 🕶️ Username: rajrathod07  
+- 🌍 Location: India  
+- 🔐 Learning: Cybersecurity & Ethical Hacking  
+- 💻 Skills: Python, HTML, CSS, JavaScript, Linux  
 
-> mission.load()
-Build → Break → Secure → Repeat
-name: Raj Rathod
-username: rajrathod07
-alias: cyber_raj
-specialization:
-  - Web Development
-  - Cybersecurity (Learning)
-  - Programming
+---
 
-currently_learning:
-  - Python
-  - Ethical Hacking
-  - Backend Development
+## ⚔️ Tech Arsenal
 
-goal: Become Elite Developer & Security Expert
-⚔️ Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,git,github,vscode" /> </p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,linux,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rajrathod07&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&theme=chartreuse-dark&hide_border=true&background=0d1117"/>
+</p>
+
+---
+
+## 🛰️ Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajrathod07&theme=chartreuse-dark&bg_color=0d1117&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rajrathod07&color=00ff9c&style=flat-square&label=PROFILE+VIEWS"/>
+</p>
