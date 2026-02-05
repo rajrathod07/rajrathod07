@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator" />
 </p>
 
-```python
+python
 class CyberProfile:
     def __init__(self):
         self.name = "Raj Rathod"
