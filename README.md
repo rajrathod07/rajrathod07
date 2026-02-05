@@ -1,7 +1,6 @@
 <h1 align="center">👾 Raj Rathod</h1>
 <h3 align="center">Cybersecurity Learner | Developer</h3>
 
----
 
 ## ⚡ About Me
 - 🔐 Learning Cybersecurity
@@ -9,7 +8,6 @@
 - 🐧 Linux Enthusiast
 - 👨‍💻 GitHub: rajrathod07
 
----
 
 ## 🛠️ Skills
 <p>
@@ -22,19 +20,16 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajrathod07&show_icons=true&theme=chartreuse-dark)
 
----
 
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rajrathod07&theme=chartreuse-dark)
 
----
 
 ## 👁️ Profile Views
 
