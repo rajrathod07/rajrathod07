@@ -32,3 +32,5 @@ currently_learning:
   - Backend Development
 
 goal: Become Elite Developer & Security Expert
+⚔️ Tech Arsenal
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,git,github,vscode" /> </p>
