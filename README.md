@@ -4,11 +4,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Booting+Cyber+System...;Access+Granted+✔;Welcome+rajrathod07;Ethical+Hacker+%7C+Developer;Securing+the+Digital+World..." />
 </p>
 
----
 
 ## 🧠 Identity Protocol
 
-```bash
+
 > whoami
 rajrathod07
 
@@ -20,6 +19,6 @@ Online 🟢
 
 > focus
 Ethical Hacking | Python | Web Development
----
+
 ⚔️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,git,github,vscode" /> </p>
