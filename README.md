@@ -1,7 +1,34 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=435&lines=SYSTEM+INITIATED...;ACCESS+GRANTED...;WELCOME+TO+MY+PROFILE" alt="Typing SVG" />
-</h1>
+<!-- CYBER HACKER PROFILE README -->
+
+<h1 align="center">⚡ RAJ RATHOD // CYBER REALM ⚡</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Initializing+RajRathod07.exe...;Access+Granted+✔;Cybersecurity+Enthusiast;Developer+%7C+Cyber+Explorer;Learning+Never+Stops..." />
 </p>
+
+---
+
+```bash
+> booting system...
+
+user: rajrathod07
+role: Cyber Explorer 🕶️
+status: Online 🟢
+location: India 🌏
+
+> mission.load()
+Build → Break → Secure → Repeat
+name: Raj Rathod
+username: rajrathod07
+alias: cyber_raj
+specialization:
+  - Web Development
+  - Cybersecurity (Learning)
+  - Programming
+
+currently_learning:
+  - Python
+  - Ethical Hacking
+  - Backend Development
+
+goal: Become Elite Developer & Security Expert
