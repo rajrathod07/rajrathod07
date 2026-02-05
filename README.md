@@ -1,5 +1,3 @@
----
-
 ### Option 2: The "Modern Coder" (Visual & Dynamic)
 This style uses "Shield" badges, dynamic typing effects, and a cleaner layout. It looks professional but high-tech.
 
