@@ -1,7 +1,7 @@
 # 👨‍💻 Raj Rathod
 ### 💻 Developer | 🔐 Cybersecurity Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9C&width=650&lines=Welcome+to+my+GitHub;Coding+and+Learning+Cybersecurity;+Web+Dev+%7C+Python+%7C+Linux" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF9C&width=650&lines=Welcome+to+my+GitHub;Coding+and+Learning+Cybersecurity;+Web+Dev+%7C+Python+%7C+Linux" />
 
 ---
 
