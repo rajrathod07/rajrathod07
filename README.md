@@ -1,90 +1,102 @@
 <div align="center">
 
-# ⚡ System Access Granted: Welcome to Raj Rathod's Workspace ⚡
+# 👨‍💻 Raj Rathod
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Initializing+profile...;Hello,+I'm+Raj+Rathod;BCA+Student+%7C+Developer;Aspiring+Cybersecurity+Expert;Prepping+for+CEH+Certification;Executing+learning_protocols.sh" alt="Typing SVG" />
+### 💻 Developer | 🔐 Cybersecurity Learner | 🐧 Linux Enthusiast
 
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://tryhackme.com/p/your-username">
-    <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a>
-</p>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=rajrathod07&color=00ff9c&style=flat-square&label=PROFILE+VIEWS)](https://github.com/rajrathod07)
-
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Coding+and+Learning+Cybersecurity;Python+%7C+Web+Development+%7C+Linux;Always+Learning+New+Things"/>
 
 </div>
 
-## 🕵️‍♂️ Threat Intel (About Me)
+---
 
-I am a passionate developer and cybersecurity enthusiast currently building my foundational skills in software development and network security. I enjoy breaking things down to understand how they work and securing them against vulnerabilities.
+## 🧠 About Me
 
-- 🎓 Currently in my **3rd year of a Bachelor of Computer Applications (BCA)**.
-- 🔐 Actively preparing for my **Certified Ethical Hacker (CEH)** certification.
-- 🎯 Strategizing my next move: Pursuing a **Master's (MCA) specializing in Cybersecurity**.
-- 🌐 Expanding my arsenal in **Web Development** and **Python scripting**.
-- 🐧 Dedicated **Linux** user, exploring system administration and security frameworks.
+* 👨‍💻 Beginner Developer passionate about **technology**
+* 🔐 Currently learning **Cybersecurity**
+* 🐍 Learning **Python Programming**
+* 🌐 Exploring **Web Development**
+* 🐧 Daily driving **Linux**
+* 🚀 Goal: Become a **Skilled Developer & Security Expert**
 
 ---
 
-## 🛠️ Technology Arsenal
-
-### 💻 Languages & Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,bash" />
-  </a>
-</p>
-
-### 🛡️ Tools, OS & Environments
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,linux,git,github,vscode" />
-  </a>
-</p>
-
----
-
-## 📊 Telemetry & Stats
+## ⚙️ Skills & Tools
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajrathod07&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rajrathod07&theme=chartreuse-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,linux,git,github,vscode,bash"/>
+
+</div>
+
+**Languages & Tools**
+
+• Python
+• HTML
+• CSS
+• JavaScript
+• Linux
+• Git
+• GitHub
+• VS Code
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajrathod07&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajrathod07&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
 </div>
 
 ---
 
-## 📟 Root Terminal
+## 🔥 GitHub Streak
 
-```bash
-root@raj-rathod:~# ./status_report.sh
+<div align="center">
 
-[+] User Identification: Raj Rathod
-[+] Designation: Beginner Developer & Security Learner
-[+] Current Mission: Become a highly skilled developer & security expert
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&theme=chartreuse-dark&hide_border=true"/>
 
-root@raj-rathod:~# cat /etc/goals.conf
-> Target_1 = "Complete BCA Degree"
-> Target_2 = "Achieve CEH Certification"
-> Target_3 = "Begin MCA in Cyber Security"
-> Target_4 = "Master Python & Web Exploitation"
+</div>
 
-root@raj-rathod:~# echo "Keep Learning. Keep Building." >> mindset.log
-root@raj-rathod:~# exit
-logout
-Connection to 127.0.0.1 closed.
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajrathod07&theme=matrix&no-frame=true&margin-w=10"/>
+
+</div>
+
+---
+
+## 👁️ Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rajrathod07&color=00ff9c&style=for-the-badge"/>
+
+</div>
+
+---
+
+## 💻 Hacker Mode
+
+```
+user: rajrathod07
+status: learning cybersecurity
+system: linux
+mission: become skilled developer & security expert
+```
+
+---
+
+<div align="center">
+
+⚡ **Keep Learning. Keep Building. Keep Hacking.** ⚡
+
+</div>
