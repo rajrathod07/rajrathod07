@@ -83,7 +83,7 @@ certification: prepping for ceh
 mission: become skilled developer & security expert
 
 
-<div align="center">
+``` <div align="center">
 
 ⚡ Keep Learning. Keep Building. Keep Hacking. ⚡
 
