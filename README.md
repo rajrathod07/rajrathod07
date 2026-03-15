@@ -82,9 +82,4 @@ education: bca -> mca (cybersecurity)
 certification: prepping for ceh
 mission: become skilled developer & security expert
 
-
-``` <div align="center">
-
 ⚡ Keep Learning. Keep Building. Keep Hacking. ⚡
-
-</div>
