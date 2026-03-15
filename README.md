@@ -14,7 +14,7 @@
 
 * 🎓 Currently in my 3rd year of a **Bachelor of Computer Applications (BCA)**
 * 🔐 Preparing for the **Certified Ethical Hacker (CEH)** certification
-* 🎯 Planning to pursue an **MCA in Cybersecurity**
+* 🎯 Planning a 4-year honors extension to pursue an **MS in Cybersecurity**
 * 🐍 Learning **Python Programming** & 🌐 Exploring **Web Development**
 * 🐧 Daily driving **Linux** (Arch & Kali)
 * 🚀 Mission: Become a **Skilled Developer & Security Expert**
@@ -78,8 +78,9 @@
 user: rajrathod07
 status: learning cybersecurity
 system: arch / kali linux
-education: bca -> mca (cybersecurity)
+education: bca (honors) -> ms (cybersecurity)
 certification: prepping for ceh
 mission: become skilled developer & security expert
 
-⚡ Keep Learning. Keep Building. Keep Hacking. ⚡
+---
+<h3 align="center">⚡ Keep Learning. Keep Building. Keep Hacking. ⚡</h3>
