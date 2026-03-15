@@ -82,5 +82,5 @@ education: bca (honors) -> ms (cybersecurity)
 certification: prepping for ceh
 mission: become skilled developer & security expert
 
----
+
 <h3 align="center">⚡ Keep Learning. Keep Building. Keep Hacking. ⚡</h3>
