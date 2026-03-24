@@ -78,7 +78,7 @@
 user: rajrathod07
 status: learning cybersecurity
 system: arch / kali linux
-education: bca (honors) -> ms (cybersecurity)
+education: bca (honors) -> (in Progress...)
 certification: prepping for ceh
 mission: become skilled developer & security expert
 ```
