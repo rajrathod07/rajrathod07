@@ -14,7 +14,7 @@
 
 * 🎓 Currently in my 3rd year of a **Bachelor of Computer Applications (BCA)**
 * 🔐 Preparing for the **Certified Ethical Hacker (CEH)** certification
-* 🎯 Planning a 4-year honors extension to pursue an **MS in Cybersecurity**
+* 🎯 Planning become skilled **developer & security expert**
 * 🐍 Learning **Python Programming** & 🌐 Exploring **Web Development**
 * 🐧 Daily driving **Linux** (Arch & Kali)
 * 🚀 Mission: Become a **Skilled Developer & Security Expert**
