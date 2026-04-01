@@ -37,15 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajrathod07&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajrathod07&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -54,13 +45,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajrathod07&theme=matrix&no-frame=true&margin-w=10" />
-</div>
-
----
 
 ## 👁️ Profile Views
 
