@@ -75,8 +75,9 @@
 
 
 ## 👁️ Profile Views
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajrathod07&color=00ff9c&labelColor=000000&style=for-the-badge&label=SYSTEM+HITS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rajrathod07&color=00ff9c&style=for-the-badge" />
 </div>
 
 ---
