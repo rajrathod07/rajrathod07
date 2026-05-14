@@ -1,31 +1,28 @@
 <div align="center">
 
-<!-- Terminal Style Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=RAJ_RATHOD.exe&fontSize=50&fontAlignY=50&animation=twinkling&fontColor=00FF9C&stroke=00FF9C&strokeWidth=2" width="100%" alt="Header Background"/>
-
-<br><br>
+<!-- Dynamic Twinkling Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=150&section=header&text=Raj%20Rathod&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Background"/>
 
 <!-- Sleek Role Badges -->
-<img src="https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=codeforces&logoColor=00FF9C" alt="Developer" />
-<img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" alt="Cybersecurity" />
-<img src="https://img.shields.io/badge/Linux_User-000000?style=for-the-badge&logo=linux&logoColor=00FF9C" alt="Linux" />
+<img src="https://img.shields.io/badge/Developer-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF9C" alt="Developer" />
+<img src="https://img.shields.io/badge/Cybersecurity_Learner-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" alt="Cybersecurity" />
+<img src="https://img.shields.io/badge/Linux_Enthusiast-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C" alt="Linux" />
 
 <br>
 
-<!-- Terminal Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=>_Initializing_User_Profile...;>_Status:+BCA_Student+%7C+Developer;>_Target:+CEH_Certification;>_Executing:+Python+%26+Linux;>_Connection_Established." alt="Typing Animation" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;BCA+Student+%7C+Developer;Prepping+for+CEH+Certification;Python+%7C+Web+Development+%7C+Linux;Always+Learning+New+Things" alt="Typing Animation" />
 
 <br><br>
 
-<!-- 3 Primary Contact Links -->
+<!-- 3 Primary Contact Links (FIXED ICONS) -->
 <p align="center">
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Email"/></a>
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" alt="LinkedIn"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=web&logoColor=00FF9C" alt="Portfolio"/></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9C" alt="Portfolio"/></a>
 </p>
 
 </div>
-
 ---
 
 ## 🧠 About Me
