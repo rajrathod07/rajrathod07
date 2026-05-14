@@ -1,10 +1,24 @@
 <div align="center">
 
-# 👨‍💻 Raj Rathod
+<!-- Dynamic Twinkling Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=150&section=header&text=Raj%20Rathod&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Background"/>
 
-### 💻 Developer | 🔐 Cybersecurity Learner | 🐧 Linux Enthusiast
+<!-- Sleek Role Badges -->
+<img src="https://img.shields.io/badge/Developer-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF9C" alt="Developer" />
+<img src="https://img.shields.io/badge/Cybersecurity_Learner-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" alt="Cybersecurity" />
+<img src="https://img.shields.io/badge/Linux_Enthusiast-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C" alt="Linux" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;BCA+Student+%7C+Developer;Prepping+for+CEH+Certification;Python+%7C+Web+Development+%7C+Linux;Always+Learning+New+Things"/>
+<br>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;BCA+Student+%7C+Developer;Prepping+for+CEH+Certification;Python+%7C+Web+Development+%7C+Linux;Always+Learning+New+Things" alt="Typing Animation" />
+
+<br><br>
+
+<!-- Social Connect Links (Replace # with your actual URLs) -->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00FF9C" alt="LinkedIn"/></a>
+<a href="#"><img src="https://img.shields.io/badge/X_(Twitter)-0D1117?style=flat-square&logo=x&logoColor=00FF9C" alt="Twitter"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=web&logoColor=00FF9C" alt="Portfolio"/></a>
 
 </div>
 
