@@ -3,6 +3,11 @@
 <!-- Dynamic Twinkling Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=150&section=header&text=Raj%20Rathod&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" style="max-width: 100%;" alt="Header Background"/>
 
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;BCA+Student+%7C+Developer;Prepping+for+CEH+Certification;Python+%7C+Web+Development+%7C+Linux;Always+Learning+New+Things" style="max-width: 100%;" alt="Typing Animation" />
+
+<br>
+
 <!-- Sleek Role Badges -->
 <img src="https://img.shields.io/badge/Developer-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF9C" style="max-width: 100%;" alt="Developer" />
 <img src="https://img.shields.io/badge/Cybersecurity_Learner-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" style="max-width: 100%;" alt="Cybersecurity" />
@@ -10,12 +15,6 @@
 
 <br>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;BCA+Student+%7C+Developer;Prepping+for+CEH+Certification;Python+%7C+Web+Development+%7C+Linux;Always+Learning+New+Things" style="max-width: 100%;" alt="Typing Animation" />
-
-<br>
-
-<!-- 3 Primary Contact Links (FIXED ICONS) -->
 
 </div>
 
@@ -29,7 +28,9 @@
 * 🐧 Daily driving **Linux** (Arch & Kali)
 * 🚀 Mission: Become a **Skilled Developer & Security Expert**
 <br>
-<p align="center">
+
+<!-- 3 Primary Contact Links (FIXED ICONS) -->
+<p align="left">
   <a href="mailto:devloper.raj07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" style="max-width: 100%;" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/rajrathod07"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" style="max-width: 100%;" alt="LinkedIn"/></a>
   <a href="https://portfolio-raj-rathod.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9C" style="max-width: 100%;" alt="Portfolio"/></a>
