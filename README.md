@@ -1,78 +1,70 @@
 <div align="center">
 
-<!-- Dynamic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=200&section=header&text=Raj%20Rathod&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Developer%20%7C%20Cybersecurity%20Learner%20%7C%20Linux%20Enthusiast&descAlignY=60&descAlign=62" width="100%"/>
+# ⚡ SYSTEM ENUMERATION: `raj_rathod`
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;BCA+Student+%7C+Developer;Prepping+for+CEH+Certification;Python+%7C+Web+Development+%7C+Linux;Mission:+Code+%26+Secure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=>+Initializing+user_profile.sh...;>+Loading+BCA+Student+Data...;>+Target+Acquired:+CEH+Certification;>+Executing+Python+%26+Web+Modules...;>+Access+Granted:+Welcome+to+my+GitHub." alt="Typing SVG" />
 
-<br/>
-
-<!-- Social Links (Replace the # with your actual links) -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-%2300FF9C.svg?style=for-the-badge&logo=Web&logoColor=black" alt="Portfolio"/></a>
-
-<br><br>
-  
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=rajrathod07&color=00ff9c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=Web&logoColor=black" alt="Portfolio"/></a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 Who am I?
+## 👤 `whoami`
 
-> **Mission:** _Bridge the gap between robust software development and offensive security._
-
-* 🎓 **Education:** Currently in my 3rd year of a **Bachelor of Computer Applications (BCA)**.
-* 🔐 **Focus:** Preparing for the **Certified Ethical Hacker (CEH)** certification.
-* 🐍 **Coding:** Mastering **Python** and exploring modern **Web Development**.
-* 🐧 **Environment:** Daily driving **Linux** (Arch & Kali).
-* 🎯 **Goal:** Become a highly skilled developer & top-tier security expert.
+> I am a developer and aspiring cybersecurity expert who believes that to build impenetrable systems, you must first understand how to break them. Currently navigating my **BCA degree** while prepping for the **CEH**, I daily drive **Arch & Kali Linux** to keep my skills sharp in real-world environments.
 
 ---
 
-## ⚙️ Tech Stack & Arsenal
+## 🛠️ `tech_arsenal`
 
 <div align="center">
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,kali,bash,python,js,html,css,git,github,vscode&theme=dark&perline=11" alt="Skills" />
-  </a>
-  <br><br>
+
+| 🌐 **Languages & Web** | 🐧 **OS, Environments & Tools** |
+| :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,arch,kali,bash,git,github,vscode&theme=dark" /></a> |
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 `system_telemetry`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajrathod07&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Raj's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&theme=chartreuse-dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <!-- Customized cards to perfectly match the Hacker Green (00FF9C) and deep dark background -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rajrathod07&show_icons=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9&icon_color=00FF9C&border_color=161b22&hide_border=false" alt="Raj's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&background=0D1117&fire=00FF9C&ring=00FF9C&currStreakLabel=00FF9C&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=false&stroke=161b22" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajrathod07&color=00ff9c&style=for-the-badge&label=PROFILE+HITS" alt="Profile Views" />
 </div>
 
 ---
 
-## 💻 Hacker Mode
+## 💻 `execute_profile.py`
 
-```bash
-╭─rajrathod@linux-system ~
-╰─$ cat user_profile.json
+```python
+class HackerProfile:
+    def __init__(self):
+        self.username = "rajrathod07"
+        self.education = "Bachelor of Computer Applications (3rd Year)"
+        self.current_focus = "Certified Ethical Hacker (CEH)"
+        self.primary_os = ["Arch Linux", "Kali Linux"]
+        self.status = "Learning, Building, and Hacking."
 
-{
-  "user": "rajrathod07",
-  "status": "learning cybersecurity",
-  "system": ["Arch Linux", "Kali Linux"],
-  "education": "BCA (Honors) -> [In Progress...]",
-  "certification": "Prepping for CEH",
-  "mission": "Become a skilled developer & security expert"
-}
+    def get_mission(self):
+        return (
+            "To become a top-tier Developer & Security Expert by "
+            "mastering Python, Web Technologies, and Offensive Security."
+        )
 
-╭─rajrathod@linux-system ~
-╰─$ ./execute_future.sh
-
-[+] Keep Learning.
-[+] Keep Building.
-[+] Keep Hacking. ⚡
+if __name__ == "__main__":
+    raj = HackerProfile()
+    print(raj.get_mission())
