@@ -1,46 +1,73 @@
 <div align="center">
 
-<!-- Animated Twinkling Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=120&section=header&text=RAJ_RATHOD.sh&fontSize=50&fontAlignY=50&fontColor=00FF9C&animation=twinkling&stroke=00FF9C&strokeWidth=2" width="100%"/>
+<!-- You can replace this image URL with your own custom black and white banner like the "Synax!" one -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Raj%20Rathod&fontSize=70&fontAlignY=45&fontColor=ffffff&desc=BCA%20%7C%20Developer%20%7C%20Cybersecurity&descAlignY=70&descAlign=50" width="100%"/>
 
 <br><br>
 
-<!-- Fast Live Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=24&duration=1500&pause=300&color=00FF9C&center=true&vCenter=true&width=800&lines=[+]_Accessing_Mainframe...;[+]_Target:_CEH_Certification;[+]_Deploying:_Python+|+Web;[+]_OS:_Arch+|+Kali_Linux;[+]_Status:_Online_and_Hacking" alt="Terminal" />
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-TWITTER-000000?style=for-the-badge&logo=x&logoColor=00FF9C" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=web&logoColor=00FF9C" /></a>
-</p>
+<img src="https://img.shields.io/github/followers/rajrathod07?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=000000" />
+<img src="https://img.shields.io/github/stars/rajrathod07?label=STARS&style=for-the-badge&color=000000&labelColor=000000" />
+<img src="https://img.shields.io/github/forks/rajrathod07?label=FORKS&style=for-the-badge&color=000000&labelColor=000000" />
 
 </div>
 
----
+<br><br>
 
-### 🟢 `SYSTEM_METRICS`
+<h3 align="center">Know About Me</h3>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="30%" align="center">
+      <!-- Replace this URL with your own black & white 3D brain/skull image -->
+      <img src="https://cdn-icons-png.flaticon.com/512/2806/2806635.png" width="150" style="filter: invert(1);" />
+    </td>
+    <td width="70%">
+      <b>Hey there! I'm Raj.</b><br><br>
+      I'm a BCA undergrad fueled by caffeine and an unhealthy obsession with breaking into systems (legally, of course). By day, I pretend to understand web development and write Python scripts to automate myself out of doing actual work. By night, I live in the terminal of my Arch and Kali Linux setups. Currently prepping for the CEH certification so I can officially call myself a hacker without getting weird looks.
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<h3 align="center">Current Arsenal (built to break & secure)</h3>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="70%">
+      <img src="https://img.icons8.com/material-rounded/24/ffffff/github.png" width="16"/> <b>PYTHON</b> &nbsp; Automating tasks because doing things manually is a vulnerability.<br><br>
+      <img src="https://img.icons8.com/material-rounded/24/ffffff/github.png" width="16"/> <b>WEB DEV</b> &nbsp; Building user interfaces, because even hackers need things to look pretty sometimes.<br><br>
+      <img src="https://img.icons8.com/material-rounded/24/ffffff/github.png" width="16"/> <b>LINUX</b> &nbsp; Daily driving Arch and Kali, treating my terminal like a highly stressful command center.<br><br>
+    </td>
+    <td width="30%" align="center">
+      <!-- Replace this URL with your own black & white 3D fire image -->
+      <img src="https://cdn-icons-png.flaticon.com/512/785/785116.png" width="130" style="filter: invert(1);" />
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<h3 align="center">Connect</h3>
+
+<div align="center">
+  <a href="https://github.com/rajrathod07"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=web&logoColor=white" /></a>
+</div>
+
+<br><br>
+
+> A system is never fully secure. It only becomes slightly harder to breach over time.
+> Every patch I apply is essentially just a small, desperate apology to my future self. Someday I will return to this server, look at the vulnerabilities I missed, and wonder who let me near a keyboard.
+
+<br><br>
+
+<h3 align="center">Contribution</h3>
 
 <div align="center">
   <a href="https://github.com/rajrathod07">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajrathod07&show_icons=true&bg_color=000000&title_color=00FF9C&text_color=00FF9C&icon_color=00FF9C&border_color=00FF9C&hide_border=false&border_radius=0" alt="Stats" height="195" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&hide_border=true&background=0D111700&fire=ffffff&ring=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/rajrathod07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&background=000000&fire=00FF9C&ring=00FF9C&currStreakLabel=00FF9C&sideNums=00FF9C&sideLabels=00FF9C&dates=00FF9C&stroke=00FF9C&border_radius=0" alt="Streak" height="195" />
-  </a>
-</div>
-
-<br>
-
-### 🛠️ `ACTIVE_MODULES`
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,kali,bash,python,js,html,css,git,github,vscode&theme=dark&perline=11" alt="Tech Stack" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajrathod07&color=00ff9c&style=for-the-badge&label=SYSTEM+HITS" alt="Profile Views" />
 </div>
