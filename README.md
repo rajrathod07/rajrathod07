@@ -13,15 +13,20 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;BCA+Student+%7C+Developer;Prepping+for+CEH+Certification;Python+%7C+Web+Development+%7C+Linux;Always+Learning+New+Things" alt="Typing Animation" />
 
-<br><br>
+<br>
 
 <!-- 3 Primary Contact Links (FIXED ICONS) -->
 <p align="center">
-  <a href="mailto:devloper.raj07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/rajrathod07"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" alt="LinkedIn"/></a>
-  <a href="https://portfolio-raj-rathod.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9C" alt="Portfolio"/></a>
+  <a href="mailto:devloper.raj07@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rajrathod07" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-raj-rathod.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9C" alt="Portfolio"/>
+  </a>
 </p>
-
 </div>
 
 
