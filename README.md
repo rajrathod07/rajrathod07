@@ -70,8 +70,13 @@
 
 ## 🔥 GitHub Stats & Streak
 
+## 🔥 GitHub Activity & Languages
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajrathod07&theme=chartreuse-dark&hide_border=true&show_icons=true" height="195" style="max-width: 100%;" alt="GitHub Stats" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajrathod07&theme=chartreuse-dark&hide_border=true&layout=compact" height="195" style="max-width: 100%;" alt="Top Languages" />
+  
+  <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&theme=chartreuse-dark&hide_border=true" height="195" style="max-width: 100%;" alt="GitHub Streak" />
 </div>
 
