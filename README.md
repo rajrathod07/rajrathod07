@@ -4,7 +4,7 @@
 
 ### 💻 Developer | 🔐 Cybersecurity Learner | 🐧 Linux Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;BCA+Student+%7C+Developer;Prepping+for+CEH+Certification;Always+Learning+New+Things" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;BCA+Student+%7C+Developer;Prepping+for+CEH+Certification;Python+%7C+Web+Development+%7C+Linux;Always+Learning+New+Things"/>
 
 </div>
 
@@ -16,26 +16,49 @@ I am a developer and cybersecurity enthusiast currently pursuing a degree in Com
 
 ---
 
-## ⚙️ Tech Arsenal
+## ⚙️ Skills & Tools
 
 <div align="center">
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,bash,linux,arch,kali,git,github,vscode&theme=dark" alt="Tech Stack" />
-  </a>
-  <br><br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,arch,kali,git,github,vscode,bash"/>
+</a>
+
+<br><br>
+
+**• Python • HTML • CSS • JavaScript • Linux • Arch Linux • Kali Linux • Git • GitHub • VS Code • Bash •**
+
 </div>
 
 ---
 
-## 🔥 System Metrics
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=rajrathod07&color=00ff9c&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&theme=chartreuse-dark&hide_border=true" />
 </div>
 
-<br><br>
+---
 
+
+## 👁️ Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajrathod07&color=00ff9c&style=for-the-badge" />
+</div>
+
+---
+
+## 💻 Hacker Mode
+
+```bash
+[rajrathod@linux-system]~# cat user_profile.txt
+
+user: rajrathod07
+status: learning cybersecurity
+system: arch / kali linux
+education: bca (honors) -> (in Progress...)
+certification: prepping for ceh
+mission: become skilled developer & security expert
+```
 <h3 align="center">⚡ Keep Learning. Keep Building. Keep Hacking. ⚡</h3>
