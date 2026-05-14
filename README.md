@@ -1,4 +1,10 @@
 <div align="center">
+<!-- Sleek Role Badges -->
+<img src="https://img.shields.io/badge/Developer-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF9C" style="max-width: 100%;" alt="Developer" />
+<img src="https://img.shields.io/badge/Cybersecurity_Learner-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" style="max-width: 100%;" alt="Cybersecurity" />
+<img src="https://img.shields.io/badge/Linux_Enthusiast-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C" style="max-width: 100%;" alt="Linux" />
+
+<br>
 
 <!-- Dynamic Twinkling Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=150&section=header&text=Raj%20Rathod&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" style="max-width: 100%;" alt="Header Background"/>
@@ -8,12 +14,6 @@
 
 <br><br>
 
-<!-- Sleek Role Badges -->
-<img src="https://img.shields.io/badge/Developer-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF9C" style="max-width: 100%;" alt="Developer" />
-<img src="https://img.shields.io/badge/Cybersecurity_Learner-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" style="max-width: 100%;" alt="Cybersecurity" />
-<img src="https://img.shields.io/badge/Linux_Enthusiast-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C" style="max-width: 100%;" alt="Linux" />
-
-<br>
 
 
 </div>
