@@ -17,15 +17,9 @@
 
 <!-- 3 Primary Contact Links (FIXED ICONS) -->
 <p align="center">
-  <a href="mailto:devloper.raj07@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rajrathod07">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" alt="LinkedIn"/>
-  </a>
-  <a href="https://portfolio-raj-rathod.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9C" alt="Portfolio"/>
-  </a>
+  <a href="mailto:devloper.raj07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/rajrathod07"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" alt="LinkedIn"/></a>
+  <a href="https://portfolio-raj-rathod.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9C" alt="Portfolio"/></a>
 </p>
 </div>
 
