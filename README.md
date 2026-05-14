@@ -24,15 +24,28 @@
 ## ⚙️ Skills & Tools
 
 <div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,arch,kali,git,github,vscode,bash"/>
-</a>
-
-<br><br>
-
-**• Python • HTML • CSS • JavaScript • Linux • Arch Linux • Kali Linux • Git • GitHub • VS Code • Bash •**
-
+  <table border="0" cellpadding="15">
+    <tr>
+      <td align="center"><b>🌐 Languages</b></td>
+      <td align="center"><b>🛠️ Tools & OS</b></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,html,css,js,bash&perline=3" alt="Languages" />
+        </a>
+        <br><br>
+        <sub><b>• Python • HTML • CSS • JS • Bash •</b></sub>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=linux,arch,kali,git,github,vscode&perline=3" alt="Tools and OS" />
+        </a>
+        <br><br>
+        <sub><b>• Linux • Arch • Kali • Git • GitHub • VS Code •</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
