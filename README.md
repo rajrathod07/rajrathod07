@@ -12,12 +12,8 @@
 
 ## 🧠 About Me
 
-* 🎓 Currently in my 3rd year of a **Bachelor of Computer Applications (BCA)**
-* 🔐 Preparing for the **Certified Ethical Hacker (CEH)** certification
-* 🎯 Planning become skilled **developer & security expert**
-* 🐍 Learning **Python Programming** & 🌐 Exploring **Web Development**
-* 🐧 Daily driving **Linux** (Arch & Kali)
-* 🚀 Mission: Become a **Skilled Developer & Security Expert**
+I am a tech enthusiast currently pursuing a **Bachelor of Computer Applications (BCA)** with a strong focus on bridging the gap between building software and protecting it. My daily workflow involves exploring **Web Development**, coding in **Python**, and navigating my **Linux** environments (Arch & Kali) to deeply understand system architectures. I am actively preparing for the **Certified Ethical Hacker (CEH)** certification, with the ultimate mission of becoming a highly skilled **Developer & Security Expert**.
+
 
 ---
 
