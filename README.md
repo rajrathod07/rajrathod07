@@ -1,63 +1,46 @@
-<h1 align="left">
-  Hello, I'm Raj Rathod ⚡
-</h1>
+<div align="center">
 
-<h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00FF9C&vCenter=true&width=800&lines=BCA+Student+|+Aspiring+Cybersecurity+Expert;Python+Developer+|+Web+Enthusiast;Daily+Driving+Arch+%26+Kali+Linux;Mission:+Code+Robustly,+Secure+Relentlessly" alt="Typing SVG" />
-</h3>
+<!-- Animated Twinkling Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=120&section=header&text=RAJ_RATHOD.sh&fontSize=50&fontAlignY=50&fontColor=00FF9C&animation=twinkling&stroke=00FF9C&strokeWidth=2" width="100%"/>
 
-<p align="left">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00FF9C" alt="Email"/></a>
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00FF9C" alt="LinkedIn"/></a>
-  <a href="YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-0D1117?style=flat-square&logo=x&logoColor=00FF9C" alt="Twitter"/></a>
-  <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=Web&logoColor=00FF9C" alt="Portfolio"/></a>
+<br><br>
+
+<!-- Fast Live Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=24&duration=1500&pause=300&color=00FF9C&center=true&vCenter=true&width=800&lines=[+]_Accessing_Mainframe...;[+]_Target:_CEH_Certification;[+]_Deploying:_Python+|+Web;[+]_OS:_Arch+|+Kali_Linux;[+]_Status:_Online_and_Hacking" alt="Terminal" />
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-TWITTER-000000?style=for-the-badge&logo=x&logoColor=00FF9C" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=web&logoColor=00FF9C" /></a>
 </p>
 
+</div>
+
+---
+
+### 🟢 `SYSTEM_METRICS`
+
+<div align="center">
+  <a href="https://github.com/rajrathod07">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajrathod07&show_icons=true&bg_color=000000&title_color=00FF9C&text_color=00FF9C&icon_color=00FF9C&border_color=00FF9C&hide_border=false&border_radius=0" alt="Stats" height="195" />
+  </a>
+  <a href="https://github.com/rajrathod07">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&background=000000&fire=00FF9C&ring=00FF9C&currStreakLabel=00FF9C&sideNums=00FF9C&sideLabels=00FF9C&dates=00FF9C&stroke=00FF9C&border_radius=0" alt="Streak" height="195" />
+  </a>
+</div>
+
 <br>
 
-### 👨‍💻 The Architecture of Me
+### 🛠️ `ACTIVE_MODULES`
 
-> **Core Directive:** To bridge the gap between robust software engineering and offensive security. I build things to understand how they work, and I break things to understand how to defend them.
-
-- 🎓 **Education:** 3rd-year **BCA (Bachelor of Computer Applications)** student.
-- 🔐 **Certification:** Currently in the trenches preparing for the **CEH (Certified Ethical Hacker)**.
-- 🐧 **Environment:** Living in the terminal. Daily driving **Arch Linux** & **Kali Linux**.
-- 💡 **Focus:** Mastering **Python**, exploring **Modern Web Dev**, and learning exploit mechanics.
-
-<br>
-
-### ⚙️ Tech Stack & Tooling
-
-<p align="left">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,kali,bash,python,js,html,css,git,github,vscode&theme=dark" alt="Raj's Skills" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,kali,bash,python,js,html,css,git,github,vscode&theme=dark&perline=11" alt="Tech Stack" />
   </a>
-</p>
+</div>
 
-<br>
+---
 
-### 📡 System Telemetry
-
-<p align="left">
-  <a href="https://github.com/rajrathod07">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajrathod07&show_icons=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9&icon_color=00FF9C&border_color=161b22&border_radius=0" height="195" alt="Stats" />
-  </a>
-  <a href="https://github.com/rajrathod07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&background=0D1117&fire=00FF9C&ring=00FF9C&currStreakLabel=00FF9C&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&stroke=161b22&border_radius=0" height="195" alt="Streak" />
-  </a>
-</p>
-
-<br>
-
-### 💻 Execution Log
-
-```diff
-@@ -1,5 +1,5 @@
-- Status: Vulnerable
-+ Status: Secured & Learning
-! Current Process: Compiling knowledge...
-#
-# root@raj-system:~# ./future_goals.sh
-# [+] Master Python automation.
-# [+] Attain CEH Certification.
-# [+] Become a top-tier Security Engineer.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajrathod07&color=00ff9c&style=for-the-badge&label=SYSTEM+HITS" alt="Profile Views" />
+</div>
