@@ -4,7 +4,7 @@
 
 ### 💻 Developer | 🔐 Cybersecurity Learner | 🐧 Linux Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;BCA+Student+%7C+Developer;Prepping+for+CEH+Certification;Python+%7C+Web+Development+%7C+Linux;Always+Learning+New+Things" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;BCA+Student+%7C+Developer;Prepping+for+CEH+Certification;Always+Learning+New+Things" alt="Typing Animation" />
 
 </div>
 
@@ -12,50 +12,58 @@
 
 ## 🧠 About Me
 
-* 🎓 Currently in my 3rd year of a **Bachelor of Computer Applications (BCA)**
-* 🔐 Preparing for the **Certified Ethical Hacker (CEH)** certification
-* 🎯 Planning to become a skilled **Developer & Security Expert**
-* 🐍 Learning **Python Programming** & 🌐 Exploring **Web Development**
-* 🐧 Daily driving **Linux** (Arch & Kali)
-* 🚀 **Mission:** Become a Skilled Developer & Security Expert
+* 🎓 3rd-year **BCA** student bridging the gap between development and security.
+* 🔐 Currently prepping for the **Certified Ethical Hacker (CEH)** certification.
+* 🐧 Daily driving **Arch & Kali Linux** to master the terminal environment.
+* 🚀 **Mission:** Become a top-tier Developer & Security Expert.
 
 ---
 
-## ⚙️ Skills & Tools
+## ⚙️ Tech Arsenal
 
 <div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,arch,kali,git,github,vscode,bash" alt="Tech Stack" />
-</a>
-
-<br><br>
-
-**• Python • HTML • CSS • JavaScript • Linux • Arch Linux • Kali Linux • Git • GitHub • VS Code • Bash •**
-
+  <table border="0" cellpadding="15">
+    <tr>
+      <td align="center"><b>🌐 Languages</b></td>
+      <td align="center"><b>🛠️ Tools & OS</b></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,js,html,css,bash&perline=3" alt="Languages" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=linux,arch,kali,git,github,vscode&perline=3" alt="Tools and OS" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🔥 GitHub Metrics & Views
+## 🔥 System Metrics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=rajrathod07&color=00ff9c&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rajrathod07&color=00ff9c&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
 
 ## 💻 Hacker Mode
 
-```bash
-╭─rajrathod@linux-system ~
-╰─# cat user_profile.txt
+```json
+root@raj-system:~# curl -X GET [https://api.rajrathod.dev/profile](https://api.rajrathod.dev/profile)
 
-user: rajrathod07
-status: learning cybersecurity
-system: arch / kali linux
-education: bca (honors) -> [in progress...]
-certification: prepping for ceh
-mission: become skilled developer & security expert
+{
+  "user": "rajrathod07",
+  "education": "BCA (In Progress)",
+  "current_target": "CEH Certification",
+  "environments": ["Arch Linux", "Kali Linux"],
+  "status": "Learning, Building, Hacking",
+  "message": "⚡ Keep Learning. Keep Building. Keep Hacking. ⚡"
+}
