@@ -69,6 +69,7 @@
 ---
 ## 🔥 GitHub Stats & Streak
 
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&theme=chartreuse-dark&hide_border=true" height="195" style="max-width: 100%;" alt="GitHub Streak" />
 </div>
 
