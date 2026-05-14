@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;BCA+Student+%7C+Developer;Prepping+for+CEH+Certification;Python+%7C+Web+Development+%7C+Linux;Always+Learning+New+Things" style="max-width: 100%;" alt="Typing Animation" />
 
-<br>
+<br><br>
 
 <!-- Sleek Role Badges -->
 <img src="https://img.shields.io/badge/Developer-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF9C" style="max-width: 100%;" alt="Developer" />
