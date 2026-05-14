@@ -12,7 +12,12 @@
 
 ## 🧠 About Me
 
-I am a developer and cybersecurity enthusiast currently pursuing a degree in Computer Applications and preparing for the Certified Ethical Hacker (CEH) certification. I specialize in Python and web technologies, and I daily drive Arch and Kali Linux to deepen my understanding of system architectures. My primary focus is on writing robust code while exploring offensive security, constantly striving to bridge the gap between building software and securing it.
+* 🎓 Currently in my 3rd year of a **Bachelor of Computer Applications (BCA)**
+* 🔐 Preparing for the **Certified Ethical Hacker (CEH)** certification
+* 🎯 Planning become skilled **developer & security expert**
+* 🐍 Learning **Python Programming** & 🌐 Exploring **Web Development**
+* 🐧 Daily driving **Linux** (Arch & Kali)
+* 🚀 Mission: Become a **Skilled Developer & Security Expert**
 
 ---
 
@@ -48,17 +53,4 @@ I am a developer and cybersecurity enthusiast currently pursuing a degree in Com
 </div>
 
 ---
-
-## 💻 Hacker Mode
-
-```bash
-[rajrathod@linux-system]~# cat user_profile.txt
-
-user: rajrathod07
-status: learning cybersecurity
-system: arch / kali linux
-education: bca (honors) -> (in Progress...)
-certification: prepping for ceh
-mission: become skilled developer & security expert
-```
 <h3 align="center">⚡ Keep Learning. Keep Building. Keep Hacking. ⚡</h3>
