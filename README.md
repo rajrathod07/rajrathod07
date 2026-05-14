@@ -67,20 +67,9 @@
 </div>
 
 ---
+## 🔥 GitHub Stats & Streak
 
-## 🔥 System Telemetry & Activity
-
-<div align="center">
-  <!-- Stable Activity Badges -->
-  <img src="https://img.shields.io/badge/TOTAL_COMMITS-000000?style=for-the-badge&logo=git&logoColor=00FF9C" style="max-width: 100%;" />
-  <img src="https://img.shields.io/github/commit-activity/y/rajrathod07?color=00ff9c&label=ANNUAL_ACTIVITY&style=for-the-badge&labelColor=000000" style="max-width: 100%;" />
-  
-  <br><br>
-
-  <!-- High-Availability Streak Alternative -->
-  <a href="https://github.com/rajrathod07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&theme=chartreuse-dark&hide_border=true" style="max-width: 100%;" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrathod07&theme=chartreuse-dark&hide_border=true" height="195" style="max-width: 100%;" alt="GitHub Streak" />
 </div>
 
 ---
