@@ -22,6 +22,7 @@
 
 ## 🧠 About Me
 
+* 👾 **Master of Science in Cybersecurity (M.Sc.Cybersecurity)**
 * 🎓 **Bachelor of Computer Applications (BCA)**
 * 🔐 Preparing for the **Certified Ethical Hacker (CEH)** certification
 * 🎯 Planning become skilled **developer & security expert**
