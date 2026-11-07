@@ -29,37 +29,26 @@
   <img src="./assets/section-about-light.svg" width="100%" alt="01 - About Me">
 </picture>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🎓 Education</b><br><br>
-      👾 <b>Master of Science in Cybersecurity</b> (M.Sc. Cybersecurity)<br><br>
-      🎓 <b>Bachelor of Computer Applications</b> (BCA)
-    </td>
-    <td width="50%" valign="top">
-      <b>🔐 Certification</b><br><br>
-      Preparing for the <b>Certified Ethical Hacker (CEH)</b> certification
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>📚 Learning</b><br><br>
-      🐍 Learning <b>Python Programming</b><br><br>
-      🌐 Exploring <b>Web Development</b>
-    </td>
-    <td width="50%" valign="top">
-      <b>🐧 Daily Driver</b><br><br>
-      Daily driving <b>Linux</b> (Arch &amp; Kali)
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <b>🎯 Goal &amp; Mission</b><br><br>
-      🎯 Planning to become a skilled <b>developer &amp; security expert</b><br><br>
-      🚀 Mission: Become a <b>Skilled Developer &amp; Security Expert</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+🎓 **BCA** &nbsp;➜&nbsp; 👾 **M.Sc. Cybersecurity** &nbsp;➜&nbsp; 🔐 **CEH** *(preparing)* &nbsp;➜&nbsp; 🚀 **Skilled Developer & Security Expert**
+
+</div>
+
+#### 🎓 Education & Certification
+
+- 👾 **Master of Science in Cybersecurity** (M.Sc. Cybersecurity)
+- 🎓 **Bachelor of Computer Applications** (BCA)
+- 🔐 Preparing for the **Certified Ethical Hacker (CEH)** certification
+
+#### 🧭 Learning & Daily Setup
+
+- 🐍 Learning **Python Programming**
+- 🌐 Exploring **Web Development**
+- 🐧 Daily driving **Linux** (Arch & Kali)
+
+> 🎯 Planning to become a skilled **developer & security expert**<br>
+> 🚀 **Mission:** Become a **Skilled Developer & Security Expert**
 
 <br>
 
