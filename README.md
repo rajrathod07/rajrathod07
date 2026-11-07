@@ -70,27 +70,21 @@
 
 <table width="100%">
   <tr>
-    <td width="30%" valign="middle">
+    <td width="34%" valign="middle">
       <b>🌐 Languages</b><br>
       <sub>Python · HTML · CSS · JS · Bash</sub>
     </td>
-    <td width="70%" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,html,css,js,bash&theme=dark">
-        <img src="https://skillicons.dev/icons?i=python,html,css,js,bash&theme=light" alt="Python, HTML, CSS, JavaScript, Bash">
-      </picture>
+    <td width="66%" valign="middle">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark"><img src="https://skillicons.dev/icons?i=python&theme=light" width="56" height="56" alt="Python"></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark"><img src="https://skillicons.dev/icons?i=html&theme=light" width="56" height="56" alt="HTML"></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark"><img src="https://skillicons.dev/icons?i=css&theme=light" width="56" height="56" alt="CSS"></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark"><img src="https://skillicons.dev/icons?i=js&theme=light" width="56" height="56" alt="JavaScript"></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark"><img src="https://skillicons.dev/icons?i=bash&theme=light" width="56" height="56" alt="Bash"></picture>
     </td>
   </tr>
   <tr>
-    <td width="30%" valign="middle">
+    <td width="34%" valign="middle">
       <b>🛠️ Tools &amp; OS</b><br>
       <sub>Linux · Arch · Kali · Git · GitHub · VS Code</sub>
     </td>
-    <td width="70%" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,arch,kali,git,github,vscode&theme=dark">
-        <img src="https://skillicons.dev/icons?i=linux,arch,kali,git,github,vscode&theme=light" alt="Linux, Arch, Kali, Git, GitHub, VS Code">
-      </picture>
+    <td width="66%" valign="middle">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark"><img src="https://skillicons.dev/icons?i=linux&theme=light" width="56" height="56" alt="Linux"></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arch&theme=dark"><img src="https://skillicons.dev/icons?i=arch&theme=light" width="56" height="56" alt="Arch Linux"></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kali&theme=dark"><img src="https://skillicons.dev/icons?i=kali&theme=light" width="56" height="56" alt="Kali Linux"></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark"><img src="https://skillicons.dev/icons?i=git&theme=light" width="56" height="56" alt="Git"></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark"><img src="https://skillicons.dev/icons?i=github&theme=light" width="56" height="56" alt="GitHub"></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark"><img src="https://skillicons.dev/icons?i=vscode&theme=light" width="56" height="56" alt="VS Code"></picture>
     </td>
   </tr>
 </table>
