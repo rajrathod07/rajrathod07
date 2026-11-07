@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 72" width="1000" height="72" role="img" aria-label="Connect">
+  <title>Connect</title>
+  <defs>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00FF9C" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#00FF9C" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="10" width="56" height="52" rx="10" fill="#00FF9C" fill-opacity="0.12" stroke="#00FF9C" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="29" y="45" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="26" font-weight="700" fill="#00FF9C" text-anchor="middle">04</text>
+  <text x="76" y="48" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#E6EDF3" textLength="189" lengthAdjust="spacing">CONNECT</text>
+  <rect x="291" y="35" width="699" height="2" rx="1" fill="url(#ln)"/>
+  <circle cx="291" cy="36" r="4.5" fill="#00FF9C">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 140" width="1000" height="140" role="img" aria-label="Decorative animated wave">
+  <title>Keep Learning. Keep Building. Keep Hacking.</title>
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00704A" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#00704A" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00A86B" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#00A86B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 84 Q200 64 400 84 Q600 104 800 84 Q1000 64 1200 84 Q1400 104 1600 84 Q1800 64 2000 84 Q2200 104 2400 84 L2400 140 L0 140 Z" fill="url(#w2)">
+    <animateTransform attributeName="transform" type="translate" from="-800 0" to="0 0" dur="26s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 66 Q125 38 250 66 Q375 94 500 66 Q625 38 750 66 Q875 94 1000 66 Q1125 38 1250 66 Q1375 94 1500 66 Q1625 38 1750 66 Q1875 94 2000 66 L2000 140 L0 140 Z" fill="url(#w1)">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="16s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 66 Q125 38 250 66 Q375 94 500 66 Q625 38 750 66 Q875 94 1000 66 Q1125 38 1250 66 Q1375 94 1500 66 Q1625 38 1750 66 Q1875 94 2000 66" fill="none" stroke="#00704A" stroke-opacity="0.55" stroke-width="1.5">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="16s" repeatCount="indefinite"/>
+  </path>
+</svg>
