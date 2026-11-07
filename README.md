@@ -68,31 +68,23 @@
   <img src="./assets/section-skills-light.svg" width="100%" alt="02 - Skills and Tools">
 </picture>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" align="center"><b>🌐 Languages</b></td>
-    <td width="50%" align="center"><b>🛠️ Tools &amp; OS</b></td>
+    <td width="30%" valign="middle">
+      <b>🌐 Languages</b><br>
+      <sub>Python · HTML · CSS · JS · Bash</sub>
+    </td>
+    <td width="70%" valign="middle">
+      <img src="https://skillicons.dev/icons?i=python,html,css,js,bash&theme=dark#gh-dark-mode-only" alt="python,html,css,js,bash"><img src="https://skillicons.dev/icons?i=python,html,css,js,bash&theme=light#gh-light-mode-only" alt="python,html,css,js,bash">
+    </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://skillicons.dev">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,html,css,js,bash&theme=dark&perline=3">
-          <img src="https://skillicons.dev/icons?i=python,html,css,js,bash&theme=light&perline=3" width="170" alt="Python, HTML, CSS, JavaScript, Bash">
-        </picture>
-      </a>
-      <br><br>
-      <sub><b>Python · HTML · CSS · JS · Bash</b></sub>
+    <td width="30%" valign="middle">
+      <b>🛠️ Tools &amp; OS</b><br>
+      <sub>Linux · Arch · Kali · Git · GitHub · VS Code</sub>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://skillicons.dev">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,arch,kali,git,github,vscode&theme=dark&perline=3">
-          <img src="https://skillicons.dev/icons?i=linux,arch,kali,git,github,vscode&theme=light&perline=3" width="170" alt="Linux, Arch, Kali, Git, GitHub, VS Code">
-        </picture>
-      </a>
-      <br><br>
-      <sub><b>Linux · Arch · Kali · Git · GitHub · VS Code</b></sub>
+    <td width="70%" valign="middle">
+      <img src="https://skillicons.dev/icons?i=linux,arch,kali,git,github,vscode&theme=dark#gh-dark-mode-only" alt="linux,arch,kali,git,github,vscode"><img src="https://skillicons.dev/icons?i=linux,arch,kali,git,github,vscode&theme=light#gh-light-mode-only" alt="linux,arch,kali,git,github,vscode">
     </td>
   </tr>
 </table>
