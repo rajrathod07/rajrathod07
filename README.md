@@ -75,7 +75,10 @@
       <sub>Python · HTML · CSS · JS · Bash</sub>
     </td>
     <td width="70%" valign="middle">
-      <img src="https://skillicons.dev/icons?i=python,html,css,js,bash&theme=dark#gh-dark-mode-only" alt="python,html,css,js,bash"><img src="https://skillicons.dev/icons?i=python,html,css,js,bash&theme=light#gh-light-mode-only" alt="python,html,css,js,bash">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,html,css,js,bash&theme=dark">
+        <img src="https://skillicons.dev/icons?i=python,html,css,js,bash&theme=light" alt="Python, HTML, CSS, JavaScript, Bash">
+      </picture>
     </td>
   </tr>
   <tr>
@@ -84,7 +87,10 @@
       <sub>Linux · Arch · Kali · Git · GitHub · VS Code</sub>
     </td>
     <td width="70%" valign="middle">
-      <img src="https://skillicons.dev/icons?i=linux,arch,kali,git,github,vscode&theme=dark#gh-dark-mode-only" alt="linux,arch,kali,git,github,vscode"><img src="https://skillicons.dev/icons?i=linux,arch,kali,git,github,vscode&theme=light#gh-light-mode-only" alt="linux,arch,kali,git,github,vscode">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,arch,kali,git,github,vscode&theme=dark">
+        <img src="https://skillicons.dev/icons?i=linux,arch,kali,git,github,vscode&theme=light" alt="Linux, Arch, Kali, Git, GitHub, VS Code">
+      </picture>
     </td>
   </tr>
 </table>
